@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Papa</first_name>
+	<last_name>Pa</last_name>
+	<phone_number>11111111111</phone_number>
+	<notes>a1</notes>
+</contact>
+<contact>
+	<first_name>Nika</first_name>
+	<last_name>Me</last_name>
+	<phone_number>222222222</phone_number>
+	<notes>a1</notes>
+</contact>
+<contact>
+	<first_name>Ilya </first_name>
+	<last_name>Me</last_name>
+	<phone_number>42424242</phone_number>
+	<notes>1</notes>
+</contact>
+<contact>
+	<first_name>Mama</first_name>
+	<last_name>Ma</last_name>
+	<phone_number>24242242</phone_number>
+	<notes>a1</notes>
+</contact>
+</contacts>
